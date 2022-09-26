@@ -1,6 +1,6 @@
 <h1 align="center">Abhishek Mehra</h1>
 <h3 align="center">Code And Be Happy.</h3>
-<img align="right" alt="Coding" width="800" src="https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133">
+<img align="right" alt="Coding" width="1000" src="https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsabhishekmehra&label=Profile%20views&color=0e75b6&style=flat" alt="itsabhishekmehra" /> </p>
 
