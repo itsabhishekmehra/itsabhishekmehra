@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/iabhishekmehra" target="blank"><img src="https://img.shields.io/twitter/follow/iabhishekmehra?logo=twitter&style=for-the-badge" alt="iabhishekmehra" /></a> </p>
 
-- 🔭 I’m currently working on **Turing**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Node.Js, Express.JS**
 
